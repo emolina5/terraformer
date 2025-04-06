@@ -80,6 +80,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-!/.idea/
-!/azure/terraform.tfvars
-!/.idea/
+**/.idea/
+**/azure/terraform.tfvars
+**/.idea/
